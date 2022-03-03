@@ -1,1 +1,1 @@
-# adgrs_cog_phewas
+# adgrs_cog
